@@ -1,0 +1,66 @@
+h1{
+    color: rgb(110, 66, 21);
+    background-color: rgb(149, 120, 88);
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 14%;
+    
+    padding-left: 50px;
+    font-family: fantasy; 
+    font-size: 700%;
+    background-image: url(cafeimg.avif);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 20%;
+} 
+h2{
+    padding-left: 100px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    background-color: rgb(57, 40, 23);
+    margin-right: 400px;
+    color: rgb(255, 246, 228);
+    text-align: left;
+    margin-left: 5%;
+    margin-left: -50px;
+    
+} 
+
+body{
+    background-color: rgb(56, 29, 2);
+}
+div{
+    background-color: darkslategrey;
+}
+h3{
+    color: blueviolet;
+    background-color: rgb(30, 15, 0);
+    font-size:35px ;
+    padding-left: 250px;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    margin-right: 300px;
+    margin-left: -100px;
+    font-family:fantasy;
+    
+}
+p{
+    background-color:rgb(151, 119, 88);
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    margin-left: -100px;
+    padding-left: 100px;
+    padding-right: 20px;
+    font-family: fantasy;
+    background-image: url(cafe.gif);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+img{
+    float: right;
+}
+.center{
+    text-align: center;
+}

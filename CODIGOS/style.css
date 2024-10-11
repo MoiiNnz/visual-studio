@@ -1,0 +1,15 @@
+h1{
+    color: deeppink;
+} 
+body{
+    background-color: blanchedalmond;
+}
+div{
+    background-color: darkslategrey;
+}
+h3{
+    color: blueviolet;
+}
+.center{
+    align-content: center;
+}
